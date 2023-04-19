@@ -22,7 +22,7 @@ nav{
 }
 .logo{
     width: 50px;
-    cursor: 6;
+    cursor: pointer;
 }
 nav ul{
     flex: 1;
