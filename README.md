@@ -1,2 +1,2 @@
 # NFTopia
-This is our project about NFT
+This is a project about NFT
